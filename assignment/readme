@@ -1,0 +1,4 @@
+#1 As office laptop was pointing to network artifactory pointed to global setting.xml
+mvn --settings /usr/local/apache-maven-3.6.3/conf/settings.xml clean install
+
+
